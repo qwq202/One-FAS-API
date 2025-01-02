@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/popjane/free_chatgpt_api"><img src="./images/logo.png" width="125" height="125" alt="free-chatgpt-api logo"></a>
+  <a href="https://github.com/qwq202/One-FAS-API"><img src="./img/R-C%2087.png" width="125" height="125" alt="free-chatgpt-api logo"></a>
 </p>
 
 # One-FAS-API
