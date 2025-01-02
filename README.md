@@ -61,7 +61,8 @@
 
 我们将根据用户量的增长相应提升服务质量，提供更优质的免费服务。在使用过程中如有问题，可以在 [issues](https://github.com/qwq202/One-FAS-API/issues) 中提出，我们会尽快解决。
 
-![image](https://github.com/user-attachments/assets/bd3f5b8e-21e0-4349-9c09-0449f98600d1)
+![image](https://github.com/user-attachments/assets/1b664b9d-8925-4236-9f77-81869de5720d)
+
 
 ## 付费 API 💰
 
@@ -72,8 +73,8 @@
 > 
 > 付费 API 站点账号与免费 API 站点不通用。
 > 
-![image](https://github.com/user-attachments/assets/43b77bd8-d331-4d62-a530-ed90a3f3d46f)
-![image](https://github.com/user-attachments/assets/ce1ae9be-6666-49ea-a69d-1f574f447d54)
+![image](https://github.com/user-attachments/assets/bbf3b830-108a-44f2-9ee6-80411e0b1aa2)
+![image](https://github.com/user-attachments/assets/7a462e0e-5100-4274-a040-c2415127be41)
 
 ### 付费 API 特点 🌟
 
