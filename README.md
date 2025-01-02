@@ -36,6 +36,12 @@
    + [x] grok-beta 模型
    + [x] SD画图 系列模型
    + [x] doubao 系列模型
+   + [ ] text-开头系列模型，例如：text-davinci
+   + [ ] gpt-4 全系列
+   + [ ] midjourney 系列模型
+   + [ ] suno 模型
+   + [ ] claude 全系列模型
+   + [ ] gemini，abab6.5-chat，dobao全系列...
 2. **标准的接口请求格式，支持以下特性：**
    - 流式响应输出。  
    - 完美兼容各类开源GPT项目/应用/软件。  
