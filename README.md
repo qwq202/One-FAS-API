@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="[https://github.com/user-attachments/assets/c2631941-83c8-4820-ba27-e61ad698c4fe](https://github.com/user-attachments/assets/c2631941-83c8-4820-ba27-e61ad698c4fe)"><img src="./images/logo.png" width="125" height="125" alt=""></a>
+  <a href="https://github.com/popjane/free_chatgpt_api"><img src="./images/logo.png" width="125" height="125" alt="free-chatgpt-api logo"></a>
 </p>
-
-
-<div align="center">
 
 # One-FAS-API
 
