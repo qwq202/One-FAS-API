@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="[https://github.com/user-attachments/assets/8870c330-9d49-4c98-9376-e6e2a8af676d](https://github.com/user-attachments/assets/c2631941-83c8-4820-ba27-e61ad698c4fe)"><img src="./images/logo.png" width="125" height="125" alt=""></a>
+  <a href="[https://github.com/user-attachments/assets/c2631941-83c8-4820-ba27-e61ad698c4fe](https://github.com/user-attachments/assets/c2631941-83c8-4820-ba27-e61ad698c4fe)"><img src="./images/logo.png" width="125" height="125" alt=""></a>
 </p>
-![image](https://github.com/user-attachments/assets/c2631941-83c8-4820-ba27-e61ad698c4fe)
+
 
 <div align="center">
 
@@ -74,8 +74,6 @@
 5. 不限时间、按量计费、明细可查，每一笔消费都公开透明。
 6. API仅用于非商业性的学习、研究、科研测试等合法用途，不得用于任何违法违规用途，不得向中国公众提供任何生成式服务，否则后果自负。
 
-
-
 ## 常用应用支持
 
 > [!NOTE]
@@ -83,4 +81,3 @@
 >
 > 所有应用的API地址（BaseUrl）为`https://api.zaochuanqiu.online`
 > api地址前缀请更换为`https://api.zaochuanqiu.online`
-
