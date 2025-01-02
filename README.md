@@ -11,15 +11,15 @@
   <img src="https://img.shields.io/badge/FREE-100%25-green_blue" alt="free">
 </p>
 
-> [!NOTE] 📌
+> [!NOTE] 
 > 本项目 API 地址为 `https://api.zaochuanqiu.online` 
 
-> [!IMPORTANT] ⚠️
+> [!IMPORTANT] 
 > 用户必须在遵循 OpenAI 的[使用条款](https://openai.com/policies/terms-of-use)以及**法律法规**的情况下使用，不得用于非法用途。
 > 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供未经备案的生成式人工智能服务。
 > 该项目 API 仅用于非商业性的学习、研究、科研测试等合法用途，不得用于任何违法违规用途以及商业用途，否则后果自负。
 
-> [!TIP] 💡
+> [!TIP] 
 > 本项目仅供个人学习使用，不保证稳定性，且不提供任何技术支持。如需高并发 API 请求，请支持付费 API。
 
 ## 项目介绍 📄
