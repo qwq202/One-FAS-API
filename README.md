@@ -55,7 +55,7 @@
 
 ## 免费使用 🎉
 
-1. 首先 [🚀 **前往注册账户**](https://api.zaochuanqiu.online)，注册后可获得 50 美元额度。
+1. 首先 [🚀 **前往注册账户**](https://api.zaochuanqiu.online)，注册后可获得 50 刀额度。
 2. 复制免费 API 地址：`https://api.zaochuanqiu.online`（无需代理，直接可用）。
 3. 在支持的应用中绑定你的 APIKEY 和 API 地址 (`BASE_URL`)，即可开始使用（请查看支持列表）。
 
