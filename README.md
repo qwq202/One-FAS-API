@@ -43,6 +43,7 @@
    - [ ] suno 模型
    - [ ] claude 全系列模型
    - [ ] gemini，abab6.5-chat，dobao 全系列...
+![image](https://github.com/user-attachments/assets/7cf3a5cd-d99c-4a6b-b8e0-89fa9236cdf1)
 
 2. **支持标准接口请求格式，特性如下：** 🔄
    - 流式响应输出
