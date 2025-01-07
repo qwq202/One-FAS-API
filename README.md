@@ -36,6 +36,7 @@
    - [x] grok-beta 模型
    - [x] SD 画图 系列模型
    - [x] doubao 系列模型
+   - [x] claude-3-5 系列模型
    - [ ] text-开头系列模型，例如：text-davinci
    - [ ] gpt-4 全系列
    - [ ] midjourney 系列模型
